@@ -131,12 +131,6 @@ body {
     background-image: url(img/googleplay-button.png);
 }
 
-ul {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-}
-
 
 /* media queries */
 
